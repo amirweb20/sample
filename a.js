@@ -7,3 +7,4 @@ console.log('sample1');
 console.log('sdfnasd');
 console.log('sdfnasd');
 console.log('sdfnasd');
+log
